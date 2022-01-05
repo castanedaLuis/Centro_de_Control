@@ -1,0 +1,55 @@
+body{
+    background-image: url(../img/leon_login.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.formulario{
+    background: rgb(0,0,0,.1);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgb(0, 0, 0,0.568); 
+    color: white;
+}
+
+.form-control{
+    background: url(0,0,0,.3);
+    border-style: none;
+    transition: 0.5s ease-in;
+    outline: none;
+    box-shadow: none;
+}
+
+.form-control:focus{
+    background: #fff;
+    outline: none;
+    box-shadow: none;
+}
+
+.form-control::placeholder{
+    color: #fff;
+}
+
+.ing{
+    background: #222A3F;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 700!important;
+    color: white;
+    transition: 0.5s ease-in;
+}
+
+.ing:hover{
+    color: white;
+}
+
+.olvide{
+    color: white;
+    text-decoration-style: none;
+    text-decoration-line: none;
+}
+
+.olvide:hover{
+    color: white;
+}

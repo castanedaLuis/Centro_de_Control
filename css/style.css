@@ -1,0 +1,43 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    background-color: #d1f2f5be;
+    color: #fff;
+    letter-spacing: .05rem;
+    background-image: url(../img/fondo_index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.menu ul li a{
+    display: inline-block;
+    color: #000;
+    text-decoration: none;
+    list-style: none;
+    padding: 10px 15px;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+}
+
+.menu ul li .modifi1{background:#129bd19f ;}
+.menu ul li .modifi2{background:#0ba5cce3;}
+.menu ul li .modifi3{background:#00abf0 ;}
+.menu ul li .modifi4{background:#7ce0e7 ;}
+.menu ul li .modifi5{background:#f5664d ;}
+
+
+
+.menu ul li a:hover{
+    padding: 10px 30px;
+    background: #000;
+    color: #fff;
+}
+
+
+.formulario{
+    margin-top: 100px;
+}

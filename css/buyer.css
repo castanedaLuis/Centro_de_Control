@@ -1,0 +1,12 @@
+
+body{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    background-color: #d1f2f5be;
+    color: #fff;
+    letter-spacing: .05rem;
+    background-image: url(../img/logo_1.0.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
